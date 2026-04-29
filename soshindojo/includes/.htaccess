@@ -1,0 +1,2 @@
+# Bloqueia acesso a qualquer arquivo no diretório includes
+Deny from all
