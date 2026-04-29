@@ -46,7 +46,7 @@ O arquivo `database.sql` contém a estrutura do banco utilizada no sistema, com 
 
 ---
 
-## 📌 Autor
+## Autor
 
 Armstrong Wechorkowski  
-💻 Desenvolvedor Web em evolução
+ Desenvolvedor Web em evolução
