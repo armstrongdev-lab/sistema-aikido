@@ -1,9 +1,9 @@
 <?php
 // Exemplo básico de conexão PDO no db.php
-$host = '10.132.36.3';
-$db   = 'cmwclini7b57831c_aikido_db';
-$user = 'cmwclini7b57831c_admin';
-$pass = 'Arms@060788';
+$host = '127.0.0.1';
+$db   = 'aikido_db';
+$user = 'root';
+$pass = '';
 $charset = 'utf8mb4';
 
 $dsn = "mysql:host=$host;dbname=$db;charset=$charset";
