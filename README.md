@@ -36,9 +36,9 @@ Sistema web desenvolvido para controle completo de alunos, presença, mensalidad
 
 ## Screenshots
 
-![Login](images/login.png)
-![Dashboard](images/dashboard.png)
-![Agenda](images/cadastro.png)
+![Login](images/login.jpeg)
+![Dashboard](images/dashboard.jpeg)
+![Agenda](images/cadastro.jpeg)
 
 ---
 
